@@ -8,17 +8,17 @@ import { Phone, Mail, MapPin, Shield } from "lucide-react";
 const contactInfo = [
   {
     icon: Phone,
-    label: "+1 (555) 123-4567",
-    href: "tel:+15551234567",
+    label: "+1 (601) 555-0123",
+    href: "tel:+16015550123",
   },
   {
     icon: Mail,
-    label: "info@gamenovavault.com",
-    href: "mailto:info@gamenovavault.com",
+    label: "info@writtingexpert.com",
+    href: "mailto:info@writtingexpert.com",
   },
   {
     icon: MapPin,
-    label: "123 Gaming Street, Suite 100, Austin, TX 78701 USA",
+    label: "2 Sunnyvale Dr, Petal, MS, 39465, USA",
     href: "#",
   },
 ];
@@ -31,7 +31,7 @@ export function Contact() {
           Send us a message
         </h2>
         <p className="text-center text-muted-foreground mb-12">
-          Speak to our support and get more details about your copy
+          Speak to our support team and get more details about our services
         </p>
 
         <div className="grid lg:grid-cols-2 gap-12 max-w-5xl mx-auto">

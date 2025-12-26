@@ -16,7 +16,7 @@ const benefits = [
   {
     icon: Users,
     title: "Diverse Projects",
-    description: "Work on varied content types from academic papers to business documents and creative writing.",
+    description: "Work on varied content types from business documents to creative writing and professional materials.",
   },
   {
     icon: Shield,
@@ -53,7 +53,7 @@ export function Freelancing() {
             Join Our Freelance Team
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Are you a skilled editor or proofreader? Join GameNova Vault and work with clients worldwide 
+            Are you a skilled editor or proofreader? Join Writing Expert and work with clients worldwide 
             while enjoying the freedom of freelancing.
           </p>
         </div>
@@ -107,7 +107,7 @@ export function Freelancing() {
                 Ready to Apply?
               </CardTitle>
               <CardDescription>
-                Start your freelancing journey with GameNova Vault
+                Start your freelancing journey with Writing Expert
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">

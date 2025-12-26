@@ -16,8 +16,8 @@ const services = [
     description: "Complete website copy editing and proofreading for web page copy, social media posts, home and about pages, product and service descriptions, blog posts, and other types of online content.",
   },
   {
-    title: "Academic copy editing and proofreading services",
-    description: "Experienced, expert academic copy editing and proofreading for students, including essays, dissertations, theses, personal statements, reports, studies, manuscripts, and other academic papers.",
+    title: "Resume, SOP & Cover Letter editing",
+    description: "Professional editing for resumes, statements of purpose, cover letters, personal statements, and professional documents to help you make the best impression on employers and admissions committees.",
   },
   {
     title: "Advice and feedback to improve your work",
@@ -33,7 +33,7 @@ const services = [
   },
   {
     title: "UK English copy editing and proofreading services",
-    description: "Experienced UK English copy editing and proofreading services for any type of offline or online content including manuscripts, books, documents, articles, websites, guides, presentations, academic papers, and dissertations/theses.",
+    description: "Experienced UK English copy editing and proofreading services for any type of offline or online content including manuscripts, books, documents, articles, websites, guides, presentations, and professional documents.",
   },
 ];
 

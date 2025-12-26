@@ -1,13 +1,13 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { FileText, Download, BookOpen, GraduationCap, Briefcase, Globe } from "lucide-react";
+import { Download, BookOpen, Briefcase, Globe, FileCheck } from "lucide-react";
 
 const guides = [
   {
-    icon: GraduationCap,
-    title: "Academic Writing Guide",
-    description: "Master the art of academic writing with our comprehensive guide covering essays, dissertations, and research papers.",
-    topics: ["Citation styles", "Research methodology", "Thesis structure", "Academic tone"],
+    icon: FileCheck,
+    title: "Editing & Proofreading Guide",
+    description: "Learn what to expect from professional editing and proofreading services, and how to prepare your documents for the best results.",
+    topics: ["Editing vs proofreading", "Document preparation", "Working with editors", "Revision process"],
   },
   {
     icon: Briefcase,
@@ -84,12 +84,12 @@ export function Guides() {
         <div className="mt-12 text-center">
           <Card className="max-w-2xl mx-auto bg-primary/5 border-primary/20">
             <CardContent className="py-8">
-              <FileText className="w-12 h-12 mx-auto text-primary mb-4" />
+              <FileCheck className="w-12 h-12 mx-auto text-primary mb-4" />
               <h3 className="font-display text-xl font-semibold text-foreground mb-2">
                 Need Custom Guidance?
               </h3>
               <p className="text-muted-foreground mb-4">
-                Contact us for personalized writing tips and editing advice tailored to your specific needs.
+                Contact us for personalized writing consultation and editing advice tailored to your specific needs.
               </p>
               <a href="#contact">
                 <Button>Get in Touch</Button>
