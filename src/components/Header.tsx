@@ -20,7 +20,7 @@ export function Header() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <a href="#home" className="font-display font-bold text-xl text-primary">
-            GameNova Vault LLC
+            Writing Expert
           </a>
           
           <nav className="hidden lg:flex items-center gap-6">
