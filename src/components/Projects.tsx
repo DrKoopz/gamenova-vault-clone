@@ -1,15 +1,15 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { FileText, GraduationCap, Briefcase, Globe, BookOpen, Building } from "lucide-react";
+import { FileText, Briefcase, Globe, BookOpen, Building, FileCheck } from "lucide-react";
 
 const projects = [
   {
-    icon: GraduationCap,
-    title: "PhD Dissertation",
-    client: "Graduate Student, University of California",
-    description: "Complete editing and formatting of a 250-page dissertation on Environmental Science.",
-    tags: ["Academic", "Science", "Long-form"],
-    wordCount: "85,000 words",
+    icon: FileCheck,
+    title: "Professional Resume Package",
+    client: "Executive Job Seeker",
+    description: "Complete resume, cover letter, and LinkedIn profile editing for a senior marketing executive.",
+    tags: ["Resume", "Cover Letter", "Professional"],
+    wordCount: "2,500 words",
   },
   {
     icon: Building,
