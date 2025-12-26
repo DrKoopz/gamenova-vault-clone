@@ -24,7 +24,7 @@ export function Hero() {
               Unlock the Full Potential of Your Writing
             </h1>
             <p className="text-lg text-primary-foreground/80 max-w-xl">
-              At GameNova Vault, we do more than just catch grammar and spelling mistakes. 
+              At Writing Expert, we do more than just catch grammar and spelling mistakes. 
               We help you enhance your writing style, ensure clarity, and strike the perfect 
               tone for every document. Let's make your words shine!
             </p>
